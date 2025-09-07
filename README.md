@@ -18,15 +18,6 @@
 
 ---
 
-## 📈 Goals
-
-- 🧠 Learn and implement **Data-Driven Testing** using tools like **TestNG** and **Excel/CSV integration**
-- 🛠️ Build real automation frameworks with **Selenium**, **TestNG**, and **Cucumber**
-- 📊 Create test reports using tools like **Extent Reports** or **Allure**
-- 🧪 Practice writing and organizing reusable test scripts and utilities
-- 🚀 Apply best practices in test automation (e.g. Page Object Model, Assertions, Waits)
----
-
 ## 👨‍💻 Currently Learning
 - Creating test automation frameworks using **TestNG** & **Cucumber**
 - Writing clean and reusable test code in Java
@@ -37,5 +28,5 @@
 ## 📫 Contact Me
 
 - 📧 Email: mohamedhamdontester@gmail.com  
-- 💼 LinkedIn: [Mohamed Hamdon Abbas](https://www.linkedin.com/in/mohamed-hamdon-abbass-4ab540371/)
+- 💼 LinkedIn: [Mohamed Hamdon Abbas](https://www.linkedin.com/in/mohamed-hamdon-4ab540371/)
 
